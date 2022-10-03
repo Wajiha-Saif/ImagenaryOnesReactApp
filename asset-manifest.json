@@ -1,17 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.7101a75d.css",
-    "main.js": "/static/js/main.6106412d.js",
+    "main.css": "/static/css/main.e2dc5908.css",
+    "main.js": "/static/js/main.c47b4fc0.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/slider-desktop.mp4": "/static/media/slider-desktop.125274a340626090de42.mp4",
+    "static/media/island-desktop.mp4": "/static/media/island-desktop.0714718fdb058345b54a.mp4",
+    "static/media/background-video-img.png": "/static/media/background-video-img.ab90bad2eb4e54d2bec9.png",
+    "static/media/david.mp4": "/static/media/david.bce63ea42c93bcbfb1a4.mp4",
+    "static/media/caleb.mp4": "/static/media/caleb.aace66222e026f78b1d4.mp4",
+    "static/media/cmt.mp4": "/static/media/cmt.198fdef762f6e496f07a.mp4",
+    "static/media/dreaming.mp4": "/static/media/dreaming.e22786b0dad55f6ffeb2.mp4",
+    "static/media/sparking.mp4": "/static/media/sparking.3766ce362f6696d46974.mp4",
+    "static/media/jerome.mp4": "/static/media/jerome.0c23de21614daaf71589.mp4",
+    "static/media/greg.mp4": "/static/media/greg.0dcfc8da8110f40f7548.mp4",
+    "static/media/good-vibes.mp4": "/static/media/good-vibes.d7590af724d5b1c0b8cf.mp4",
     "static/media/ions-bg-video.mp4": "/static/media/ions-bg-video.8ccd0b55b56e151be049.mp4",
+    "static/media/rainbow-head-pink.mp4": "/static/media/rainbow-head-pink.22eaf4598f0f690f9990.mp4",
     "static/media/magical-background.mp4": "/static/media/magical-background.179dfd7f57afae6f3695.mp4",
     "static/media/islanddesktop.png": "/static/media/islanddesktop.65d287f99a445bb0108e.png",
+    "static/media/butterfly.gif": "/static/media/butterfly.0a24fcb2b51cba0a5e6a.gif",
     "static/media/slider-desktop.d70f66a.jpg": "/static/media/slider-desktop.d70f66a.d70f66a19c47315325d3.jpg",
     "static/media/webreel-mobile.jpg": "/static/media/webreel-mobile.3ccbf5afba6424210dbb.jpg",
     "static/media/ballpurple.png": "/static/media/ballpurple.47b2e3881d16896172f5.png",
     "static/media/ballyellow.png": "/static/media/ballyellow.aa2eea5990118c9f7f66.png",
     "static/media/ballpink.png": "/static/media/ballpink.dfe25bac4c70a3fb68fe.png",
     "static/media/ball-green.png": "/static/media/ball-green.014fc17efb21407979ed.png",
+    "static/media/gold-ball.png": "/static/media/gold-ball.cedfde34d9cb1dc897a6.png",
     "static/media/ballblue.png": "/static/media/ballblue.6492c454c16cf34d5c2f.png",
     "static/media/ballbeige.png": "/static/media/ballbeige.f39a412aff99d71a13aa.png",
     "static/media/samurai.png": "/static/media/samurai.8d79e8a70a204376706e.png",
@@ -21,6 +35,7 @@
     "static/media/gameboy.png": "/static/media/gameboy.068684b7175d154ac7a7.png",
     "static/media/pineapple.png": "/static/media/pineapple.6fa5d0408f9b0e33aa57.png",
     "static/media/koala.png": "/static/media/koala.7935a0619ceabdff61a7.png",
+    "static/media/daisy.png": "/static/media/daisy.e3c3303478b9a237ed90.png",
     "static/media/bathtub.png": "/static/media/bathtub.322712c9b9c51c3e8f5c.png",
     "static/media/cyclops.png": "/static/media/cyclops.f0d0767af4321cac5220.png",
     "static/media/beanie.png": "/static/media/beanie.d1c17a3b26469c46b0f3.png",
@@ -29,12 +44,12 @@
     "static/media/logo.png": "/static/media/logo.b433dd92798f9fcb8343.png",
     "static/media/angry-bird.png": "/static/media/angry-bird.322439b766e4e8d3d1eb.png",
     "index.html": "/index.html",
-    "main.7101a75d.css.map": "/static/css/main.7101a75d.css.map",
-    "main.6106412d.js.map": "/static/js/main.6106412d.js.map",
+    "main.e2dc5908.css.map": "/static/css/main.e2dc5908.css.map",
+    "main.c47b4fc0.js.map": "/static/js/main.c47b4fc0.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7101a75d.css",
-    "static/js/main.6106412d.js"
+    "static/css/main.e2dc5908.css",
+    "static/js/main.c47b4fc0.js"
   ]
 }
