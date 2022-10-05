@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.46e4eb89.css",
-    "main.js": "/static/js/main.cb5c6f8b.js",
+    "main.css": "/static/css/main.36ec0495.css",
+    "main.js": "/static/js/main.cc42f0d8.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/slider-desktop.mp4": "/static/media/slider-desktop.125274a340626090de42.mp4",
     "static/media/island-desktop.mp4": "/static/media/island-desktop.0714718fdb058345b54a.mp4",
@@ -52,12 +52,12 @@
     "static/media/logo.png": "/static/media/logo.b433dd92798f9fcb8343.png",
     "static/media/angry-bird.png": "/static/media/angry-bird.322439b766e4e8d3d1eb.png",
     "index.html": "/index.html",
-    "main.46e4eb89.css.map": "/static/css/main.46e4eb89.css.map",
-    "main.cb5c6f8b.js.map": "/static/js/main.cb5c6f8b.js.map",
+    "main.36ec0495.css.map": "/static/css/main.36ec0495.css.map",
+    "main.cc42f0d8.js.map": "/static/js/main.cc42f0d8.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46e4eb89.css",
-    "static/js/main.cb5c6f8b.js"
+    "static/css/main.36ec0495.css",
+    "static/js/main.cc42f0d8.js"
   ]
 }
